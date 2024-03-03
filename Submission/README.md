@@ -7,7 +7,7 @@ conda activate bike-sharing
 pip install pandas
 pip install matplotlib
 pip install seaborn
-pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+pip install streamlit 
 ```
 
 ## Run steamlit app
